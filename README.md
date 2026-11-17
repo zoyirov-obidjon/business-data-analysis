@@ -98,11 +98,9 @@ Data Analytics Portfolio: Python, SQL, Jupyter Notebook, Power BI, and Business 
 <img width="1415" height="800" alt="demographics-dashboard-2" src="https://github.com/user-attachments/assets/99656bad-523b-4381-b8ca-e77a7c649afa" />
 <img width="1411" height="798" alt="demographics-dashboard-1" src="https://github.com/user-attachments/assets/4d8bab0e-608b-4328-9a29-dee1f965aa75" />
 
-
-![Демографический дашборд](./dashboards/demographics-dashboard-1.png)
-![Диаграмма рассеяния](./dashboards/demographics-dashboard-2.png)
-
+(Для открытия файлов `.pbix` необходим Power BI Desktop)
 ⬇️ [Скачать дашборд (.pbix)](./dashboards/16%2C7_Zoirov_O_bi_work.pbix?raw=true)
+
 ### 3.2. Анализ продаж и маркетинга (Skillbox)
 Файл: `27.6 Finish_Sales and Marketing Skillbox (Data Only).pbix`
 
@@ -114,10 +112,8 @@ Data Analytics Portfolio: Python, SQL, Jupyter Notebook, Power BI, and Business 
 
 <img width="1409" height="767" alt="sales-dashboard" src="https://github.com/user-attachments/assets/b98fab4b-eb5f-4ec2-b879-e8c08730c9b7" />
 
-
-![Дашборд продаж](./dashboards/sales-dashboard.png)
-⬇️ [Скачать дашборд (.pbix)](./dashboards/27.6%20Finish_Sales%20and%20Marketing%20Skillbox%20%28Data%20Only%29.pbix?raw=true)
 (Для открытия файлов `.pbix` необходим Power BI Desktop)
+⬇️ [Скачать дашборд (.pbix)](./dashboards/27.6%20Finish_Sales%20and%20Marketing%20Skillbox%20%28Data%20Only%29.pbix?raw=true)
 
 ## Контакты
 
