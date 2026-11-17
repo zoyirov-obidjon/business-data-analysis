@@ -95,8 +95,13 @@ Data Analytics Portfolio: Python, SQL, Jupyter Notebook, Power BI, and Business 
 - таблица медианного возраста по регионам;
 - диаграмма рассеяния «медианный возраст — рождаемость»: чем выше медианный возраст, тем ниже уровень рождаемости.
 
+<img width="1415" height="800" alt="demographics-dashboard-2" src="https://github.com/user-attachments/assets/99656bad-523b-4381-b8ca-e77a7c649afa" />
+<img width="1411" height="798" alt="demographics-dashboard-1" src="https://github.com/user-attachments/assets/4d8bab0e-608b-4328-9a29-dee1f965aa75" />
+
+
 ![Демографический дашборд](./dashboards/demographics-dashboard-1.png)
 ![Диаграмма рассеяния](./dashboards/demographics-dashboard-2.png)
+
 ⬇️ [Скачать дашборд (.pbix)](./dashboards/16%2C7_Zoirov_O_bi_work.pbix?raw=true)
 ### 3.2. Анализ продаж и маркетинга (Skillbox)
 Файл: `27.6 Finish_Sales and Marketing Skillbox (Data Only).pbix`
@@ -106,6 +111,9 @@ Data Analytics Portfolio: Python, SQL, Jupyter Notebook, Power BI, and Business 
 - объём продаж по сегментам: лидирует сегмент All Season, далее Moderation и Extreme;
 - продажи по регионам (East, West, Central): в сегменте Extreme больше всего продаж в восточном регионе (107 ед.), в центральном — 43 ед.;
 - структура продаж по моделям (treemap): в каждом сегменте продажи сосредоточены вокруг нескольких ключевых моделей.
+
+<img width="1409" height="767" alt="sales-dashboard" src="https://github.com/user-attachments/assets/b98fab4b-eb5f-4ec2-b879-e8c08730c9b7" />
+
 
 ![Дашборд продаж](./dashboards/sales-dashboard.png)
 ⬇️ [Скачать дашборд (.pbix)](./dashboards/27.6%20Finish_Sales%20and%20Marketing%20Skillbox%20%28Data%20Only%29.pbix?raw=true)
